@@ -3,7 +3,7 @@
         "source": "https://github.com/HiiFyi/Autocaption001.git",
         "branch": "main",
         "env": {
-            "BOT_TOKEN": "7532528417:AAEopyMPdR7ZsTjfSk6Ry8ZiCKcUm3owro8"
+            "bot_token": "7532528417:AAEopyMPdR7ZsTjfSk6Ry8ZiCKcUm3owro8"
         },
         "run": "main.py"
     },
@@ -11,7 +11,7 @@
         "source": "https://github.com/HiiFyi/Autocaption-.git",
         "branch": "main",
         "env": {
-            "BOT_TOKEN": "7360984136:AAFyQJViZDwuzk-UKjT7B0vknEAl7NFFHik"
+            "bot_token": "7360984136:AAFyQJViZDwuzk-UKjT7B0vknEAl7NFFHik"
         },
         "run": "main.py"
     }
